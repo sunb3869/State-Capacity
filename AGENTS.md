@@ -37,3 +37,10 @@ The dataset supports a theory in which quota adoption varies by state capacity f
 - inclusive-type capacity: unified citizenship, competitive absorption, procedural integration.
 
 The empirical design should preserve these distinctions rather than collapsing all quotas into a binary variable.
+
+
+## Reproducibility and source-access workflow
+9. The repository must run without `PYTHONPATH=src` workarounds; editable install and tests/build must import directly.
+10. If official source sites are blocked (e.g., proxy 403), do not add unverifiable country rows to `data/manual/quota_events_manual.csv`; instead update diagnostics and todo workflow files.
+11. Keep a country-level workflow queue in `data/manual/quota_country_todo.csv` with source-access status.
+12. Rows missing any required evidence field (`source_url`, `source_quote`, `source_type`, `confidence`, `notes`) are invalid for the official manual event table.

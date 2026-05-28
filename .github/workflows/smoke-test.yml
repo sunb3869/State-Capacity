@@ -1,0 +1,22 @@
+name: smoke-test
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  offline-smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install package
+        run: python -m pip install -e .[dev]
+      - name: Import check
+        run: python -c "import gender_quota_panel; import gender_quota_panel.build_panel; print('import ok')"
+      - name: Tests
+        run: pytest -q
+      - name: Offline build
+        run: python -m gender_quota_panel.build_panel --base data/input/analysis_panel_clean_1990_2024.csv --out data --offline

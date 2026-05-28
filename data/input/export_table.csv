@@ -1,0 +1,125 @@
+,,,Gender Quotas Database,,,,,,,,,,,,,,,,,,,,,,,,Electoral System Design Database
+Country,ISO2,ISO3,Single/Lower House>Quota type,Single/Lower House>Total seats,Single/Lower House>Seats held by women,Single/Lower House>Constitutional quota details,Single/Lower House>Electoral law quota details,Single/Lower House>Political funding legislation quota details,Single/Lower House>Legal sanctions for non-compliance,Single/Lower House>Rank-order rules,Upper house>Quota type,Upper house>Total seats,Upper house>Seats held by women,Upper house>Constitutional quota details,Upper house>Electoral law quota details,Upper house>Political funding legislation quota details,Upper house>Legal sanctions for non-compliance,Upper house>Rank-order rules,Sub-National Level>Quota type,Sub-National Level>Constitutional quota details,Sub-National Level>Electoral law quota details,Sub-National Level>Political funding legislation quota details,Sub-National Level>Legal sanctions for non-compliance,Sub-National Level>Rank-order rules,General>Voluntary political party quotas,Upper house>Electoral system,Electoral system for national legislature
+Albania,AL,ALB,Legislated Candidate Quotas,140,49,-,Yes,-,Electoral law,-,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,-,-,-,List PR
+Algeria,DZ,DZA,Legislated Candidate Quotas,407,32,-,Yes,-,Electoral law,-,-,163,4,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,-,Yes,Indirectly elected / appointed,List PR
+Andorra,AD,AND,Legislated Candidate Quotas,28,14,-,Yes,-,-,-,-,-,-,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,Yes,Mixed Member Proportional,Parallel
+Angola,AO,AGO,-,220,86,No,Yes,-,No,No,-,-,-,-,No,-,-,-,-,-,-,-,-,-,Yes,-,List PR
+Argentina,AR,ARG,Legislated Candidate Quotas,257,109,Yes,Yes,-,Electoral law,-,Legislated Candidate Quotas,72,33,Yes,Yes,-,Electoral law,-,Legislated Candidate Quotas,Yes,Yes,-,-,-,Yes,Majority (using party lists),List PR
+Armenia,AM,ARM,Legislated Candidate Quotas,107,41,-,Yes,-,Electoral law,-,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,-,Yes,-,List PR
+Australia,AU,AUS,-,151,69,No,No,-,-,-,No legislated,76,43,-,-,-,-,-,No legislated,No,No,-,-,-,Yes,AV,AV
+Austria,AT,AUT,-,183,65,No,No,-,-,-,-,60,24,-,-,-,-,-,No legislated,No,No,-,-,-,Yes,Indirectly elected / appointed,List PR
+Bangladesh,BD,BGD,Reserved seats,296,7,Yes,Yes,-,-,-,-,-,-,-,No,-,-,-,Reserved seats,Yes,-,-,-,-,No,-,FPTP
+Belgium,BE,BEL,Legislated Candidate Quotas,150,62,-,Yes,-,Electoral law,Electoral Law,Legislated Candidate Quotas,59,28,Yes,Yes,-,Electoral law,Electoral law,Legislated Candidate Quotas,-,Yes,-,Electoral law,Electoral law,No,List PR,List PR
+Benin,BJ,BEN,Reserved seats,109,28,-,Yes,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Yes,-,List PR
+Bolivia,BO,BOL,Legislated Candidate Quotas,130,66,-,Yes,-,Electoral law,Electoral law,Legislated Candidate Quotas,36,21,-,Yes,-,Electoral law,Electoral law,Legislated Candidate Quotas,-,Yes,-,Electoral law,Electoral law,No,MMP,MMP
+Bosnia and Herzegovina,BA,BIH,Legislated Candidate Quotas,42,8,-,Yes,-,-,Electoral law,Legislated Candidate Quotas,15,1,-,Yes,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,Yes,-,List PR
+Botswana,BW,BWA,-,67,6,No,No,-,-,-,-,-,-,-,No,-,-,-,No legislated,No,No,-,-,-,Yes,-,FPTP
+Brazil,BR,BRA,Legislated Candidate Quotas,513,93,Yes,Yes,Yes,-,-,-,81,16,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,Yes,FPTP,List PR
+Burkina Faso,BF,BFA,Legislated Candidate Quotas,71,13,-,Yes,Yes,-,Gender Quota Law,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,Yes,-,Gender Quota Law,Yes,-,List PR
+Burundi,BI,BDI,Legislated Candidate Quotas,111,44,Yes,Yes,-,Electoral law,Constitution,Legislated Candidate Quotas,13,6,Yes,Yes,-,Electoral law,-,Legislated Candidate Quotas,-,Electoral Law and Law on the Election of Local Government,-,-,-,No,Indirectly elected,List PR
+Cameroon,CM,CMR,-,180,61,No,Yes,-,-,-,-,100,33,-,No,-,-,-,No legislated,No,No,-,-,-,Yes,-,FPTP PBV List PR
+Canada,CA,CAN,-,343,104,No,No,-,-,-,-,104,57,-,-,-,-,-,No legislated,No,No,-,-,-,Yes,-,FPTP
+Cabo Verde,CV,CPV,Legislated Candidate Quotas,72,32,-,Yes,Yes,Parity Law,Parity Law,-,-,-,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,Yes,Parity Law,Parity Law,No,-,List PR
+Central African Republic,CF,CAF,Legislated Candidate Quotas,140,16,Yes,Yes,-,Yes,-,-,-,-,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,-,-,TRS
+Chad,TD,TCD,Legislated Candidate Quotas,188,63,-,Yes,-,Electoral law,-,Legislated Candidate Quotas,69,25,-,Yes,-,-,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,-,-,-,FPTP PBV List PR
+Chile,CL,CHL,Legislated Candidate Quotas,155,52,-,Yes,-,Electoral law,-,-,50,16,-,Yes,-,-,-,No legislated,No,No,-,-,-,Yes,List PR,List PR
+Colombia,CO,COL,Legislated Candidate Quotas,187,55,Yes,Yes,Yes,Electoral law,-,Legislated Candidate Quotas,105,33,-,Yes,Yes,Political Parties Law,-,Legislated Candidate Quotas,-,Yes,Yes,Political Parties Law,-,No,List PR,List PR
+Comoros,KM,COM,-,33,6,-,-,-,-,-,-,-,-,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,-,-,-,TRS
+Republic of The Congo (Brazzaville),CG,COG,Legislated Candidate Quotas,151,22,Yes,Yes,-,-,-,Legislated Candidate Quotas,72,23,Yes,Yes,Yes,-,-,Legislated Candidate Quotas,Yes,Yes,-,-,-,No,-,TRS
+Costa Rica,CR,CRI,Legislated Candidate Quotas,57,30,-,Yes,-,Electoral law,Electoral law,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,Electoral law,Yes,-,List PR
+Côte d'Ivoire,CI,CIV,Legislated Candidate Quotas,253,34,-,Yes,-,Electoral law,Gender Quota Law,Legislated Candidate Quotas,97,24,-,Yes,Yes,Electoral law,Gender Quota Law,Legislated Candidate Quotas,-,Yes,Yes,Electoral law,Yes,Yes,Indirectly Elected; Appointed,PBV FPTP
+Croatia,HR,HRV,Legislated Candidate Quotas,151,50,-,Yes,-,Yes,-,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,Yes,-,List PR
+Cyprus,CY,CYP,-,56,8,No,No,-,-,-,-,-,-,-,No,-,-,-,No legislated,No,No,-,-,-,Yes,-,List PR
+Czechia,CZ,CZE,-,200,67,No,No,-,-,-,-,80,17,-,-,-,-,-,No legislated,No,No,-,-,-,Yes,List PR,List PR
+Dominican Republic,DO,DOM,Legislated Candidate Quotas,190,70,-,Yes,-,Political Parties Law,Political Party Law,-,32,4,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,Local Government Law,No,List PR,List PR
+Ecuador,EC,ECU,Legislated Candidate Quotas,151,68,Yes,Yes,-,Electoral law,Electoral law,No legislated,-,-,-,No,-,-,-,Legislated Candidate Quotas,Yes,Yes,-,Electoral law,Electoral law,No,-,List PR
+Egypt,EG,EGY,Reserved seats,596,160,Yes,No,-,Electoral law,-,-,200,20,-,No,-,-,-,Reserved seats,Yes,-,-,-,-,No,-,TRS PBV
+El Salvador,SV,SLV,Legislated Candidate Quotas,60,19,-,Yes,-,Law on Political Parties,-,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,Law on Political Parties,-,Yes,-,List PR
+Equatorial Guinea,GQ,GNQ,-,100,31,No,No,-,-,-,-,80,20,-,-,-,-,-,No legislated,No,No,-,-,-,Yes,-,List PR
+Eritrea,ER,ERI,Reserved seats,150,0,No,-,-,-,-,-,-,-,-,No,-,-,-,Reserved seats,-,No,-,-,-,No,-,No direct elections
+France,FR,FRA,Legislated Candidate Quotas,575,208,Yes,Law on financial transparency in political life,-,Law on financial transparency in political life,-,Legislated Candidate Quotas,348,129,Yes,Yes,-,Electoral law,Electoral law,Legislated Candidate Quotas,Yes,Yes,-,-,-,Yes,Indirectly elected,TRS
+Gabon,GA,GAB,Legislated Candidate Quotas,139,30,-,Yes,-,Electoral law,-,Legislated Candidate Quotas,70,17,-,Yes,-,Gender Quota Law,-,Legislated Candidate Quotas,-,Yes,-,Gender Quota Law,Gender Quota Law,No,-,TRS
+Germany,DE,DEU,-,630,204,No,No,-,-,-,No legislated,69,24,-,-,-,-,-,No legislated,No,No,-,-,-,Yes,-,MMP
+Greece,GR,GRC,Legislated Candidate Quotas,297,68,-,Yes,-,-,-,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,Yes,-,List PR
+Guatemala,GT,GTM,-,160,32,No,No,-,-,-,-,-,-,-,No,-,-,-,No legislated,No,No,-,-,-,Yes,-,List PR
+Guinea,GN,GIN,Legislated Candidate Quotas,81,24,-,Yes,Yes,Yes,Yes,-,-,-,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,Yes,Yes,No,-,Parallel
+Guinea-Bissau,GW,GNB,Legislated Candidate Quotas,66,0,-,Yes,Yes,Yes,Yes,-,-,-,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,Yes,Yes,Yes,-,-,List PR
+Honduras,HN,HND,Legislated Candidate Quotas,128,38,-,Yes,-,Electoral law,Electoral law,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,Electoral law,Yes,-,List PR
+Hungary,HU,HUN,-,199,30,No,No,-,-,-,-,-,-,-,No,-,-,-,No legislated,No,No,-,-,-,Yes,-,MMP
+Iceland,IS,ISL,-,63,29,No,No,-,-,-,-,-,-,-,No,-,-,-,No legislated,No,No,-,-,-,Yes,-,List PR
+India,IN,IND,Reserved seats,544,75,No,No,-,-,-,-,245,39,-,No,-,-,-,Reserved seats,Yes,-,-,-,-,No,Indirect Elections (STV),FPTP
+Indonesia,ID,IDN,Legislated Candidate Quotas,580,127,-,Yes,-,Electoral law,Electoral law,-,-,-,-,No,-,No,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,Electoral law,No,-,List PR
+Iraq,IQ,IRQ,Reserved seats,329,84,Yes,Yes,-,-,Electoral law,-,-,-,-,No,-,-,-,Reserved seats,-,Yes,-,-,-,No,-,SNTV
+Ireland,IE,IRL,Legislated Candidate Quotas,174,44,-,Yes,No,Electoral law,-,-,60,27,-,-,-,-,-,No legislated,No,No,No,-,-,Yes,-,STV
+Israel,IL,ISR,-,120,29,No,No,-,-,-,-,-,-,-,No,-,-,-,No legislated,No,No,-,-,-,Yes,-,List PR
+Italy,IT,ITA,Legislated Candidate Quotas,400,131,Yes,Yes,-,-,-,-,204,74,-,Yes,-,-,-,Legislated Candidate Quotas,Yes,Legislated Candidate Quotas,-,Electoral law,Electoral law,Yes,-,Parallel
+Japan,JP,JPN,-,465,68,-,-,-,-,-,-,248,73,-,-,-,-,-,-,-,-,-,-,-,Yes,Parallel (SNTV),Parallel
+Jordan,JO,JOR,Reserved seats,138,27,-,Yes,-,-,Electoral law,-,69,10,-,-,-,-,-,Reserved seats,-,Yes,-,-,-,No,-,List PR
+Kazakhstan,KZ,KAZ,Legislated Candidate Quotas,98,18,-,No,-,-,-,-,50,10,-,-,-,-,-,Legislated Candidate Quotas,-,No,-,-,-,No,-,Parallel
+Kenya,KE,KEN,Reserved seats,342,80,Yes,-,-,Political Parties Act,Constitution and Electoral law,Reserved seats,67,21,-,Constitution,-,Political Parties Act,Electoral law,Reserved seats,Yes,-,-,-,Constitution Electoral law,Yes,First-past-the-post,FPTP
+"Korea, Republic of",KR,KOR,Legislated Candidate Quotas,300,61,-,Yes,-,Electoral law,Electoral law,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,Electoral law,Yes,-,MMP
+Kyrgyzstan,KG,KGZ,Legislated Candidate Quotas,87,29,-,Yes,-,-,Electoral law,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,No,Yes,-,-,-,No,-,Parallel
+Lesotho,LS,LSO,Legislated Candidate Quotas,120,30,-,Yes,-,-,Electoral law,-,33,7,-,-,-,-,-,Reserved seats,-,Yes,-,-,-,No,-,MMP
+Liberia,LR,LBR,Legislated Candidate Quotas,73,8,-,No,-,-,-,Legislated Candidate Quotas,30,3,-,No,-,No,-,Reserved seats,-,No,-,-,-,Yes,FPTP,FPTP
+Lithuania,LT,LTU,-,141,40,No,No,-,-,-,-,-,-,-,No,-,-,-,No legislated,No,No,-,-,-,Yes,-,Parallel
+Luxembourg,LU,LUX,Legislated Candidate Quotas,60,21,No,Yes,-,-,-,-,-,-,-,No,-,-,-,No legislated,No,No,-,-,-,Yes,-,List PR
+"North Macedonia, Republic of",MK,MKD,Legislated Candidate Quotas,120,47,-,Yes,-,Electoral law,Electoral law,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,Electoral law,Yes,-,List PR
+Malawi,MW,MWI,-,224,48,No,No,-,-,-,-,-,-,-,No,-,-,-,No legislated,No,No,-,-,-,Yes,-,FPTP
+Malaysia,MY,MYS,-,222,30,-,-,-,-,-,-,56,9,-,-,-,-,-,-,-,-,-,-,-,Yes,-,FPTP
+Maldives,MV,MDV,-,93,3,-,-,-,-,-,-,-,-,-,-,-,-,-,Reserved seats,-,Yes,-,-,-,No,-,FPTP
+Mali,ML,MLI,Legislated Candidate Quotas,137,40,-,Yes,-,-,-,-,-,-,-,No,-,-,-,Reserved seats,-,Yes,Yes,-,-,Yes,-,TRS
+Malta,MT,MLT,Legislated Candidate Quotas,79,23,Yes,Yes,-,-,-,-,-,-,-,No,-,-,-,No legislated,No,No,-,-,-,Yes,-,STV
+Mauritania,MR,MRT,Legislated Candidate Quotas,176,41,-,Yes,-,-,Electoral law,No legislated,56,8,-,Yes,Yes,Electoral law,Electoral law,Legislated Candidate Quotas,-,Yes,-,Organic Law promoting women's access to electoral mandates and elective offices,EMB Act,No,Indirectly elected,Parallel
+Mauritius,MU,MUS,-,67,12,-,-,-,-,-,-,-,-,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,Electoral law,Yes,-,BV
+Mexico,MX,MEX,Legislated Candidate Quotas,500,251,Yes,Yes,-,Electoral law,Electoral law,Legislated Candidate Quotas,128,64,-,Yes,-,Electoral law,Electoral law,Legislated Candidate Quotas,Yes,Yes,-,Electoral law,State regulations,No,MMP,MMP
+"Moldova, Republic of",MD,MDA,Legislated Candidate Quotas,101,38,-,Yes,-,-,-,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,Yes,-,List PR
+Mongolia,MN,MNG,Legislated Candidate Quotas,126,32,-,Yes,Political Party Law,Electoral law,-,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,No,-,Parallel
+Montenegro,ME,MNE,Legislated Candidate Quotas,81,22,-,Yes,-,Electoral law,Electoral law,-,-,-,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,No,No,-,List PR
+Morocco,MA,MAR,Reserved seats,395,96,-,Yes,-,Electoral law,-,-,120,14,-,-,-,-,-,Reserved seats,-,Yes,-,-,-,No,-,List PR
+Mozambique,MZ,MOZ,-,250,-,No,No,-,-,-,-,-,-,-,No,-,-,-,-,No,No,-,-,-,Yes,-,List PR
+Namibia,NA,NAM,-,104,44,No,No,-,N/A,N/A,No legislated,42,7,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,Yes,-,List PR
+Nepal,NP,NPL,Reserved seats,275,0,Yes,-,-,-,-,-,57,22,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,No,Indirectly elected,Parallel
+Netherlands,NL,NLD,-,150,64,No,No,-,-,-,-,75,30,-,No,-,-,-,No legislated,No,No,-,-,-,Yes,Indirectly Elected,List PR
+New Zealand,NZ,NZL,-,123,56,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Yes,-,MMP
+Nicaragua,NI,NIC,Legislated Candidate Quotas,91,50,-,Yes,-,Electoral law,Electoral law,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,Electoral law,No,-,List PR
+Niger,NE,NER,Reserved seats,194,38,-,Yes,-,Law establishing a quota system for elected offices,Electoral law,-,-,-,-,No,-,-,-,Reserved seats,-,Yes,-,Quota law,-,No,-,List PR
+Norway,NO,NOR,-,169,68,No,No,-,-,-,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,No,-,-,-,Yes,-,List PR
+Pakistan,PK,PAK,Reserved seats,311,53,Yes,Yes,-,-,-,Reserved seats,85,16,Yes,-,-,-,-,Reserved seats,Yes,Yes,-,-,-,No,Indirectly elected,Parallel
+State of Palestine,PS,PSE,Legislated Candidate Quotas,132,17,-,Yes,-,Electoral law,-,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,Electoral law,No,-,Parallel
+Panama,PA,PAN,Legislated Candidate Quotas,69,15,-,Yes,-,Electoral law,Electoral law,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,No,-,-,-,No,-,FPTP List PR
+Papua New Guinea,PG,PNG,Reserved seats,111,3,Yes,-,-,-,-,-,-,-,-,-,-,-,-,Reserved seats,-,Yes,-,-,-,-,-,AV
+Paraguay,PY,PRY,Legislated Candidate Quotas,80,19,-,Yes,-,Electoral law,Electoral law,Legislated Candidate Quotas,45,10,-,Yes,-,Electoral law,Electoral law,Legislated Candidate Quotas,-,Yes,-,Electoral law,Electoral law,Yes,List PR,List PR
+Peru,PE,PER,Legislated Candidate Quotas,130,54,-,Yes,-,-,Electoral law,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,No,-,List PR
+Philippines,PH,PHL,No legislated,314,0,No,No,-,-,-,No legislated,24,5,-,-,-,-,-,Reserved seats,-,Yes,-,-,-,Yes,Parallell,Parallel
+Poland,PL,POL,Legislated Candidate Quotas,460,144,-,Yes,-,Yes,-,Legislated Candidate Quotas,100,19,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,Electoral law,Yes,List PR,List PR
+Portugal,PT,PRT,Legislated Candidate Quotas,230,82,-,Yes,-,Electoral law,Electoral law,-,-,-,-,No,-,No,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,Electoral law,Yes,-,List PR
+Romania,RO,ROU,-,331,74,No,No,-,-,-,-,134,28,-,No,-,-,-,No legislated,No,No,-,-,-,Yes,-,List PR
+Rwanda,RW,RWA,Reserved seats,80,51,Yes,Yes,-,-,-,Reserved seats,26,13,Yes,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,No,Indirectly elected and appointed.,List PR
+Senegal,SN,SEN,Legislated Candidate Quotas,165,68,-,Yes,-,Electoral law,Electoral law,-,100,40,Yes,Yes,-,Yes,N/A,Legislated Candidate Quotas,-,Yes,-,Electoral law,Electoral law,No,Indirectly elected / Appointed,Parallel
+Serbia,RS,SRB,Legislated Candidate Quotas,250,93,-,Yes,-,Electoral law,Electoral law,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,Electoral law,No,-,List PR
+Sierra Leone,SL,SLE,Reserved seats,149,44,-,Yes,-,-,-,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,-,-,-,-,No,-,FPTP
+Slovakia,SK,SVK,-,150,35,No,No,-,-,-,-,-,-,-,No,-,-,-,No legislated,No,No,-,-,-,Yes,-,List PR
+Slovenia,SI,SVN,Legislated Candidate Quotas,90,33,-,Yes,-,Electoral law,-,-,40,7,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,Electoral law,Yes,-,List PR
+Somalia,SO,SOM,Reserved seats,275,52,Yes,No,Yes,-,-,-,54,14,-,-,-,-,-,No legislated,No,No,-,-,-,Yes,-,No direct elections
+South Africa,ZA,ZAF,-,399,178,No,No,-,-,-,-,54,24,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,Local Government Act,Yes,-,List PR
+Spain,ES,ESP,Legislated Candidate Quotas,350,155,-,Yes,-,Electoral law,Electoral law,Legislated Candidate Quotas,266,113,-,Yes,-,Electoral law,Electoral law,Legislated Candidate Quotas,-,Yes,-,Electoral law,Electoral law,Yes,Directly and Indirectly Elected,List PR
+Sri Lanka,LK,LKA,-,225,22,No,No,-,-,-,-,-,-,-,No,-,-,-,Reserved seats,-,No,-,-,-,No,-,List PR
+South Sudan,SS,SSD,Legislated Candidate Quotas,550,178,Yes,Yes,-,-,-,Legislated Candidate Quotas,84,27,Yes,Yes,-,-,-,Legislated Candidate Quotas,Yes,Yes,-,-,-,No,Indirectly elected and appointed,In transition
+Sweden,SE,SWE,-,349,157,No,No,-,-,-,-,-,-,-,No,-,-,-,No legislated,No,No,-,Yes,-,Yes,-,List PR
+Switzerland,CH,CHE,-,200,78,No,No,-,-,-,-,45,15,-,-,-,-,-,No legislated,No,No,-,-,-,Yes,-,List PR
+Taiwan,TW,TWN,Reserved seats,113,47,Yes,Yes,-,-,Electoral law,-,-,-,-,No,-,-,-,Reserved seats,Yes,Yes,-,-,-,No,-,Parallel
+"Tanzania, United Republic of",TZ,TZA,Reserved seats,387,153,Yes,Yes,-,-,Electoral law,-,-,-,-,No,-,No,-,Reserved seats,-,Yes,-,-,-,Yes,-,FPTP
+Thailand,TH,THA,-,499,99,Yes,No,-,-,-,-,200,45,-,-,-,-,-,No legislated,No,No,-,-,-,Yes,-,Parallel
+Timor-Leste,TL,TLS,Legislated Candidate Quotas,65,23,-,Yes,-,Electoral law,Electoral law,-,-,-,-,-,-,-,-,Reserved seats,-,Yes,-,-,-,No,-,List PR
+Tunisia,TN,TUN,-,152,24,Yes,Yes,-,Electoral law,Electoral law,-,77,10,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,Electoral law,-,No,-,TRS
+Turkey,TR,TUR,-,593,118,No,No,-,-,-,-,-,-,-,No,-,-,-,No legislated,No,No,-,-,-,Yes,-,List PR
+Uganda,UG,UGA,Reserved seats,556,0,Yes,Yes,-,-,-,-,-,-,-,No,-,-,-,Reserved seats,Yes,Yes,-,-,-,Yes,-,FPTP
+Ukraine,UA,UKR,Legislated Candidate Quotas,401,85,-,Yes,-,-,-,-,-,-,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,No,-,Parallel
+United Kingdom,GB,GBR,-,650,263,No,No,-,-,-,-,832,258,-,-,-,-,-,No legislated,No,No,-,-,-,Yes,-,FPTP
+Uruguay,UY,URY,Legislated Candidate Quotas,99,31,-,Yes,-,Electoral law,Electoral law,Legislated Candidate Quotas,31,8,-,Yes,-,Electoral law,Electoral law,Legislated Candidate Quotas,-,Yes,-,Electoral law,Electoral law,Yes,List PR,List PR
+Uzbekistan,UZ,UZB,Legislated Candidate Quotas,150,57,-,Yes,-,Electoral law,-,-,65,16,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,No,-,TRS
+Vanuatu,VU,VUT,-,52,1,-,-,-,-,-,-,-,-,-,-,-,-,-,Reserved seats,-,Yes,-,-,-,-,-,SNTV
+Venezuela,VE,VEN,Legislated Candidate Quotas,285,0,-,Yes,-,-,-,-,-,-,-,No,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,No,-,Parallel
+Viet Nam,VN,VNM,Legislated Candidate Quotas,500,150,-,Yes,-,-,-,No legislated,-,-,-,-,-,-,-,Legislated Candidate Quotas,-,Yes,-,-,-,-,-,TRS
+Zimbabwe,ZW,ZWE,Reserved seats,279,84,Yes,-,-,-,-,Legislated Candidate Quotas,79,35,Yes,-,-,-,Constitution,Legislated Candidate Quotas,Yes,-,-,-,Constitution,Yes,List proportional representation,Parallel
+Kosovo,XK,,Legislated Candidate Quotas,120,40,-,Yes,-,-,Electoral law,-,-,-,-,-,-,-,-,Reserved seats,-,Yes,-,Electoral law,-,No,-,List PR

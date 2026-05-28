@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gender-quota-panel"
+version = "0.1.0"
+description = "Build a country-year panel of gender quota institutions aligned to an existing 1990-2024 base panel."
+requires-python = ">=3.10"
+dependencies = [
+  "pandas>=2.1",
+  "numpy>=1.26",
+  "requests>=2.31",
+  "beautifulsoup4>=4.12",
+  "lxml>=5.0",
+  "openpyxl>=3.1",
+  "xlrd>=2.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+build-gender-quota-panel = "gender_quota_panel.build_panel:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

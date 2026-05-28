@@ -1,0 +1,182 @@
+iso3c,country_name,idea_country_name,match_method,match_score,manual_review_needed,notes
+AFG,Afghanistan,,unmatched,0.632,True,no_reliable_auto_match
+AGO,Angola,Angola,iso3_exact,1.0,False,
+ALB,Albania,Albania,iso3_exact,1.0,False,
+ARE,United Arab Emirates,,unmatched,0.467,True,no_reliable_auto_match
+ARG,Argentina,Argentina,iso3_exact,1.0,False,
+ARM,Armenia,Armenia,iso3_exact,1.0,False,
+AUS,Australia,Australia,iso3_exact,1.0,False,
+AUT,Austria,Austria,iso3_exact,1.0,False,
+AZE,Azerbaijan,,unmatched,0.588,True,no_reliable_auto_match
+BDI,Burundi,Burundi,iso3_exact,1.0,False,
+BEL,Belgium,Belgium,iso3_exact,1.0,False,
+BEN,Benin,Benin,iso3_exact,1.0,False,
+BFA,Burkina Faso,Burkina Faso,iso3_exact,1.0,False,
+BGD,Bangladesh,Bangladesh,iso3_exact,1.0,False,
+BGR,Bulgaria,,unmatched,0.667,True,no_reliable_auto_match
+BHR,Bahrain,,unmatched,0.615,True,no_reliable_auto_match
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,iso3_exact,1.0,False,
+BLR,Belarus,,unmatched,0.571,True,no_reliable_auto_match
+BOL,Bolivia,Bolivia,iso3_exact,1.0,False,
+BRA,Brazil,Brazil,iso3_exact,1.0,False,
+BRB,Barbados,,unmatched,0.556,True,no_reliable_auto_match
+BTN,Bhutan,,unmatched,0.571,True,no_reliable_auto_match
+BWA,Botswana,Botswana,iso3_exact,1.0,False,
+CAF,Central African Republic,Central African Republic,iso3_exact,1.0,False,
+CAN,Canada,Canada,iso3_exact,1.0,False,
+CHE,Switzerland,Switzerland,iso3_exact,1.0,False,
+CHL,Chile,Chile,iso3_exact,1.0,False,
+CHN,China,,unmatched,0.667,True,no_reliable_auto_match
+CIV,Ivory Coast,Côte d'Ivoire,iso3_exact,0.333,False,low_name_similarity_despite_iso_match
+CMR,Cameroon,Cameroon,iso3_exact,1.0,False,
+COD,Democratic Republic of the Congo,,unmatched,0.632,True,no_reliable_auto_match
+COG,Republic of the Congo,Republic of The Congo (Brazzaville),iso3_exact,0.75,False,
+COL,Colombia,Colombia,iso3_exact,1.0,False,
+COM,Comoros,Comoros,iso3_exact,1.0,False,
+CPV,Cape Verde,Cabo Verde,iso3_exact,0.8,False,
+CRI,Costa Rica,Costa Rica,iso3_exact,1.0,False,
+CUB,Cuba,,unmatched,0.545,True,no_reliable_auto_match
+CYP,Cyprus,Cyprus,iso3_exact,1.0,False,
+CZE,Czechia,Czechia,iso3_exact,1.0,False,
+DDR,German Democratic Republic,,unmatched,0.542,True,no_reliable_auto_match
+DEU,Germany,Germany,iso3_exact,1.0,False,
+DJI,Djibouti,,unmatched,0.444,True,no_reliable_auto_match
+DNK,Denmark,,unmatched,0.5,True,no_reliable_auto_match
+DOM,Dominican Republic,Dominican Republic,iso3_exact,1.0,False,
+DZA,Algeria,Algeria,iso3_exact,1.0,False,
+ECU,Ecuador,Ecuador,iso3_exact,1.0,False,
+EGY,Egypt,Egypt,iso3_exact,1.0,False,
+ERI,Eritrea,Eritrea,iso3_exact,1.0,False,
+ESP,Spain,Spain,iso3_exact,1.0,False,
+EST,Estonia,,unmatched,0.571,True,no_reliable_auto_match
+ETH,Ethiopia,,unmatched,0.533,True,no_reliable_auto_match
+FIN,Finland,,unmatched,0.714,True,no_reliable_auto_match
+FJI,Fiji,,unmatched,0.444,True,no_reliable_auto_match
+FRA,France,France,iso3_exact,1.0,False,
+GAB,Gabon,Gabon,iso3_exact,1.0,False,
+GBR,United Kingdom,United Kingdom,iso3_exact,1.0,False,
+GEO,Georgia,,unmatched,0.714,True,no_reliable_auto_match
+GHA,Ghana,,unmatched,0.727,True,no_reliable_auto_match
+GIN,Guinea,Guinea,iso3_exact,1.0,False,
+GMB,The Gambia,,unmatched,0.625,True,no_reliable_auto_match
+GNB,Guinea-Bissau,Guinea-Bissau,iso3_exact,1.0,False,
+GNQ,Equatorial Guinea,Equatorial Guinea,iso3_exact,1.0,False,
+GRC,Greece,Greece,iso3_exact,1.0,False,
+GTM,Guatemala,Guatemala,iso3_exact,1.0,False,
+GUY,Guyana,,unmatched,0.667,True,no_reliable_auto_match
+HKG,Hong Kong,,unmatched,0.5,True,no_reliable_auto_match
+HND,Honduras,Honduras,iso3_exact,1.0,False,
+HRV,Croatia,Croatia,iso3_exact,1.0,False,
+HTI,Haiti,,unmatched,0.571,True,no_reliable_auto_match
+HUN,Hungary,Hungary,iso3_exact,1.0,False,
+IDN,Indonesia,Indonesia,iso3_exact,1.0,False,
+IND,India,India,iso3_exact,1.0,False,
+IRL,Ireland,Ireland,iso3_exact,1.0,False,
+IRN,Iran,,unmatched,0.75,True,no_reliable_auto_match
+IRQ,Iraq,Iraq,iso3_exact,1.0,False,
+ISL,Iceland,Iceland,iso3_exact,1.0,False,
+ISR,Israel,Israel,iso3_exact,1.0,False,
+ITA,Italy,Italy,iso3_exact,1.0,False,
+JAM,Jamaica,,unmatched,0.571,True,no_reliable_auto_match
+JOR,Jordan,Jordan,iso3_exact,1.0,False,
+JPN,Japan,Japan,iso3_exact,1.0,False,
+KAZ,Kazakhstan,Kazakhstan,iso3_exact,1.0,False,
+KEN,Kenya,Kenya,iso3_exact,1.0,False,
+KGZ,Kyrgyzstan,Kyrgyzstan,iso3_exact,1.0,False,
+KHM,Cambodia,,unmatched,0.667,True,no_reliable_auto_match
+KOR,South Korea,"Korea, Republic of",iso3_exact,0.345,False,low_name_similarity_despite_iso_match
+KWT,Kuwait,,unmatched,0.462,True,no_reliable_auto_match
+LAO,Laos,,unmatched,0.5,True,no_reliable_auto_match
+LBN,Lebanon,,unmatched,0.571,True,no_reliable_auto_match
+LBR,Liberia,Liberia,iso3_exact,1.0,False,
+LBY,Libya,,unmatched,0.667,True,no_reliable_auto_match
+LKA,Sri Lanka,Sri Lanka,iso3_exact,1.0,False,
+LSO,Lesotho,Lesotho,iso3_exact,1.0,False,
+LTU,Lithuania,Lithuania,iso3_exact,1.0,False,
+LUX,Luxembourg,Luxembourg,iso3_exact,1.0,False,
+LVA,Latvia,,unmatched,0.615,True,no_reliable_auto_match
+MAR,Morocco,Morocco,iso3_exact,1.0,False,
+MDA,Moldova,"Moldova, Republic of",iso3_exact,0.519,False,low_name_similarity_despite_iso_match
+MDG,Madagascar,,unmatched,0.444,True,no_reliable_auto_match
+MDV,Maldives,Maldives,iso3_exact,1.0,False,
+MEX,Mexico,Mexico,iso3_exact,1.0,False,
+MKD,North Macedonia,"North Macedonia, Republic of",iso3_exact,0.698,False,
+MLI,Mali,Mali,iso3_exact,1.0,False,
+MLT,Malta,Malta,iso3_exact,1.0,False,
+MMR,Burma/Myanmar,,unmatched,0.455,True,no_reliable_auto_match
+MNE,Montenegro,Montenegro,iso3_exact,1.0,False,
+MNG,Mongolia,Mongolia,iso3_exact,1.0,False,
+MOZ,Mozambique,Mozambique,iso3_exact,1.0,False,
+MRT,Mauritania,Mauritania,iso3_exact,1.0,False,
+MUS,Mauritius,Mauritius,iso3_exact,1.0,False,
+MWI,Malawi,Malawi,iso3_exact,1.0,False,
+MYS,Malaysia,Malaysia,iso3_exact,1.0,False,
+NAM,Namibia,Namibia,iso3_exact,1.0,False,
+NER,Niger,Niger,iso3_exact,1.0,False,
+NGA,Nigeria,,unmatched,0.833,True,no_reliable_auto_match
+NIC,Nicaragua,Nicaragua,iso3_exact,1.0,False,
+NLD,Netherlands,Netherlands,iso3_exact,1.0,False,
+NOR,Norway,Norway,iso3_exact,1.0,False,
+NPL,Nepal,Nepal,iso3_exact,1.0,False,
+NZL,New Zealand,New Zealand,iso3_exact,1.0,False,
+OMN,Oman,,unmatched,0.727,True,no_reliable_auto_match
+PAK,Pakistan,Pakistan,iso3_exact,1.0,False,
+PAN,Panama,Panama,iso3_exact,1.0,False,
+PER,Peru,Peru,iso3_exact,1.0,False,
+PHL,Philippines,Philippines,iso3_exact,1.0,False,
+PNG,Papua New Guinea,Papua New Guinea,iso3_exact,1.0,False,
+POL,Poland,Poland,iso3_exact,1.0,False,
+PRK,North Korea,,unmatched,0.588,True,no_reliable_auto_match
+PRT,Portugal,Portugal,iso3_exact,1.0,False,
+PRY,Paraguay,Paraguay,iso3_exact,1.0,False,
+PSE,Palestine/West Bank,State of Palestine,iso3_exact,0.486,False,low_name_similarity_despite_iso_match
+PSG,Palestine/Gaza,,unmatched,0.621,True,no_reliable_auto_match
+QAT,Qatar,,unmatched,0.6,True,no_reliable_auto_match
+ROU,Romania,Romania,iso3_exact,1.0,False,
+RUS,Russia,,unmatched,0.615,True,no_reliable_auto_match
+RWA,Rwanda,Rwanda,iso3_exact,1.0,False,
+SAU,Saudi Arabia,,unmatched,0.588,True,no_reliable_auto_match
+SDN,Sudan,,unmatched,0.667,True,no_reliable_auto_match
+SEN,Senegal,Senegal,iso3_exact,1.0,False,
+SGP,Singapore,,unmatched,0.5,True,no_reliable_auto_match
+SLB,Solomon Islands,,unmatched,0.545,True,no_reliable_auto_match
+SLE,Sierra Leone,Sierra Leone,iso3_exact,1.0,False,
+SLV,El Salvador,El Salvador,iso3_exact,1.0,False,
+SML,Somaliland,,unmatched,0.824,True,no_reliable_auto_match
+SOM,Somalia,Somalia,iso3_exact,1.0,False,
+SRB,Serbia,Serbia,iso3_exact,1.0,False,
+SSD,South Sudan,South Sudan,iso3_exact,1.0,False,
+STP,Sao Tome and Principe,,unmatched,0.421,True,no_reliable_auto_match
+SUR,Suriname,,unmatched,0.667,True,no_reliable_auto_match
+SVK,Slovakia,Slovakia,iso3_exact,1.0,False,
+SVN,Slovenia,Slovenia,iso3_exact,1.0,False,
+SWE,Sweden,Sweden,iso3_exact,1.0,False,
+SWZ,Eswatini,,unmatched,0.615,True,no_reliable_auto_match
+SYC,Seychelles,,unmatched,0.533,True,no_reliable_auto_match
+SYR,Syria,,unmatched,0.727,True,no_reliable_auto_match
+TCD,Chad,Chad,iso3_exact,1.0,False,
+TGO,Togo,,unmatched,0.5,True,no_reliable_auto_match
+THA,Thailand,Thailand,iso3_exact,1.0,False,
+TJK,Tajikistan,,unmatched,0.778,True,no_reliable_auto_match
+TKM,Turkmenistan,,unmatched,0.636,True,no_reliable_auto_match
+TLS,Timor-Leste,Timor-Leste,iso3_exact,1.0,False,
+TTO,Trinidad and Tobago,,unmatched,0.435,True,no_reliable_auto_match
+TUN,Tunisia,Tunisia,iso3_exact,1.0,False,
+TUR,"T""urkiye",Turkey,iso3_exact,0.714,False,
+TWN,Taiwan,Taiwan,iso3_exact,1.0,False,
+TZA,Tanzania,"Tanzania, United Republic of",iso3_exact,0.444,False,low_name_similarity_despite_iso_match
+UGA,Uganda,Uganda,iso3_exact,1.0,False,
+UKR,Ukraine,Ukraine,iso3_exact,1.0,False,
+URY,Uruguay,Uruguay,iso3_exact,1.0,False,
+USA,United States of America,,unmatched,0.541,True,no_reliable_auto_match
+UZB,Uzbekistan,Uzbekistan,iso3_exact,1.0,False,
+VEN,Venezuela,Venezuela,iso3_exact,1.0,False,
+VNM,Vietnam,Viet Nam,iso3_exact,0.933,False,
+VUT,Vanuatu,Vanuatu,iso3_exact,1.0,False,
+XKX,Kosovo,Kosovo,name_fuzzy_high,1.0,True,fuzzy_match_needs_manual_confirmation
+YEM,Yemen,,unmatched,0.545,True,no_reliable_auto_match
+YMD,South Yemen,,unmatched,0.6,True,no_reliable_auto_match
+ZAF,South Africa,South Africa,iso3_exact,1.0,False,
+ZMB,Zambia,,unmatched,0.769,True,no_reliable_auto_match
+ZWE,Zimbabwe,Zimbabwe,iso3_exact,1.0,False,
+ZZB,Zanzibar,,unmatched,0.533,True,no_reliable_auto_match

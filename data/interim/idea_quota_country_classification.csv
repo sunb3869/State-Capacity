@@ -1,0 +1,182 @@
+iso3c,country_name,idea_country_name,idea_iso3,lower_quota_type,voluntary_details,quota_voluntary_party,quota_legislated_candidate,quota_reserved_seats,quota_strength_ordinal,has_any_quota,quota_match_status,source_file
+AFG,Afghanistan,,,,,0,0,0,0,0,manual_review_needed,
+AGO,Angola,Angola,AGO,-,Yes,1,0,0,1,1,matched,export_table.csv
+ALB,Albania,Albania,ALB,Legislated Candidate Quotas,-,0,1,0,2,1,matched,export_table.csv
+ARE,United Arab Emirates,,,,,0,0,0,0,0,manual_review_needed,
+ARG,Argentina,Argentina,ARG,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+ARM,Armenia,Armenia,ARM,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+AUS,Australia,Australia,AUS,-,Yes,1,0,0,1,1,matched,export_table.csv
+AUT,Austria,Austria,AUT,-,Yes,1,0,0,1,1,matched,export_table.csv
+AZE,Azerbaijan,,,,,0,0,0,0,0,manual_review_needed,
+BDI,Burundi,Burundi,BDI,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+BEL,Belgium,Belgium,BEL,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+BEN,Benin,Benin,BEN,Reserved seats,Yes,1,0,1,3,1,matched,export_table.csv
+BFA,Burkina Faso,Burkina Faso,BFA,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+BGD,Bangladesh,Bangladesh,BGD,Reserved seats,No,0,0,1,3,1,matched,export_table.csv
+BGR,Bulgaria,,,,,0,0,0,0,0,manual_review_needed,
+BHR,Bahrain,,,,,0,0,0,0,0,manual_review_needed,
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+BLR,Belarus,,,,,0,0,0,0,0,manual_review_needed,
+BOL,Bolivia,Bolivia,BOL,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+BRA,Brazil,Brazil,BRA,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+BRB,Barbados,,,,,0,0,0,0,0,manual_review_needed,
+BTN,Bhutan,,,,,0,0,0,0,0,manual_review_needed,
+BWA,Botswana,Botswana,BWA,-,Yes,1,0,0,1,1,matched,export_table.csv
+CAF,Central African Republic,Central African Republic,CAF,Legislated Candidate Quotas,-,0,1,0,2,1,matched,export_table.csv
+CAN,Canada,Canada,CAN,-,Yes,1,0,0,1,1,matched,export_table.csv
+CHE,Switzerland,Switzerland,CHE,-,Yes,1,0,0,1,1,matched,export_table.csv
+CHL,Chile,Chile,CHL,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+CHN,China,,,,,0,0,0,0,0,manual_review_needed,
+CIV,Ivory Coast,Côte d'Ivoire,CIV,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+CMR,Cameroon,Cameroon,CMR,-,Yes,1,0,0,1,1,matched,export_table.csv
+COD,Democratic Republic of the Congo,,,,,0,0,0,0,0,manual_review_needed,
+COG,Republic of the Congo,Republic of The Congo (Brazzaville),COG,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+COL,Colombia,Colombia,COL,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+COM,Comoros,Comoros,COM,-,-,0,0,0,0,0,matched,export_table.csv
+CPV,Cape Verde,Cabo Verde,CPV,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+CRI,Costa Rica,Costa Rica,CRI,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+CUB,Cuba,,,,,0,0,0,0,0,manual_review_needed,
+CYP,Cyprus,Cyprus,CYP,-,Yes,1,0,0,1,1,matched,export_table.csv
+CZE,Czechia,Czechia,CZE,-,Yes,1,0,0,1,1,matched,export_table.csv
+DDR,German Democratic Republic,,,,,0,0,0,0,0,manual_review_needed,
+DEU,Germany,Germany,DEU,-,Yes,1,0,0,1,1,matched,export_table.csv
+DJI,Djibouti,,,,,0,0,0,0,0,manual_review_needed,
+DNK,Denmark,,,,,0,0,0,0,0,manual_review_needed,
+DOM,Dominican Republic,Dominican Republic,DOM,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+DZA,Algeria,Algeria,DZA,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+ECU,Ecuador,Ecuador,ECU,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+EGY,Egypt,Egypt,EGY,Reserved seats,No,0,0,1,3,1,matched,export_table.csv
+ERI,Eritrea,Eritrea,ERI,Reserved seats,No,0,0,1,3,1,matched,export_table.csv
+ESP,Spain,Spain,ESP,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+EST,Estonia,,,,,0,0,0,0,0,manual_review_needed,
+ETH,Ethiopia,,,,,0,0,0,0,0,manual_review_needed,
+FIN,Finland,,,,,0,0,0,0,0,manual_review_needed,
+FJI,Fiji,,,,,0,0,0,0,0,manual_review_needed,
+FRA,France,France,FRA,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+GAB,Gabon,Gabon,GAB,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+GBR,United Kingdom,United Kingdom,GBR,-,Yes,1,0,0,1,1,matched,export_table.csv
+GEO,Georgia,,,,,0,0,0,0,0,manual_review_needed,
+GHA,Ghana,,,,,0,0,0,0,0,manual_review_needed,
+GIN,Guinea,Guinea,GIN,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+GMB,The Gambia,,,,,0,0,0,0,0,manual_review_needed,
+GNB,Guinea-Bissau,Guinea-Bissau,GNB,Legislated Candidate Quotas,-,0,1,0,2,1,matched,export_table.csv
+GNQ,Equatorial Guinea,Equatorial Guinea,GNQ,-,Yes,1,0,0,1,1,matched,export_table.csv
+GRC,Greece,Greece,GRC,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+GTM,Guatemala,Guatemala,GTM,-,Yes,1,0,0,1,1,matched,export_table.csv
+GUY,Guyana,,,,,0,0,0,0,0,manual_review_needed,
+HKG,Hong Kong,,,,,0,0,0,0,0,manual_review_needed,
+HND,Honduras,Honduras,HND,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+HRV,Croatia,Croatia,HRV,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+HTI,Haiti,,,,,0,0,0,0,0,manual_review_needed,
+HUN,Hungary,Hungary,HUN,-,Yes,1,0,0,1,1,matched,export_table.csv
+IDN,Indonesia,Indonesia,IDN,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+IND,India,India,IND,Reserved seats,No,0,0,1,3,1,matched,export_table.csv
+IRL,Ireland,Ireland,IRL,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+IRN,Iran,,,,,0,0,0,0,0,manual_review_needed,
+IRQ,Iraq,Iraq,IRQ,Reserved seats,No,0,0,1,3,1,matched,export_table.csv
+ISL,Iceland,Iceland,ISL,-,Yes,1,0,0,1,1,matched,export_table.csv
+ISR,Israel,Israel,ISR,-,Yes,1,0,0,1,1,matched,export_table.csv
+ITA,Italy,Italy,ITA,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+JAM,Jamaica,,,,,0,0,0,0,0,manual_review_needed,
+JOR,Jordan,Jordan,JOR,Reserved seats,No,0,0,1,3,1,matched,export_table.csv
+JPN,Japan,Japan,JPN,-,Yes,1,0,0,1,1,matched,export_table.csv
+KAZ,Kazakhstan,Kazakhstan,KAZ,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+KEN,Kenya,Kenya,KEN,Reserved seats,Yes,1,0,1,3,1,matched,export_table.csv
+KGZ,Kyrgyzstan,Kyrgyzstan,KGZ,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+KHM,Cambodia,,,,,0,0,0,0,0,manual_review_needed,
+KOR,South Korea,"Korea, Republic of",KOR,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+KWT,Kuwait,,,,,0,0,0,0,0,manual_review_needed,
+LAO,Laos,,,,,0,0,0,0,0,manual_review_needed,
+LBN,Lebanon,,,,,0,0,0,0,0,manual_review_needed,
+LBR,Liberia,Liberia,LBR,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+LBY,Libya,,,,,0,0,0,0,0,manual_review_needed,
+LKA,Sri Lanka,Sri Lanka,LKA,-,No,0,0,0,0,0,matched,export_table.csv
+LSO,Lesotho,Lesotho,LSO,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+LTU,Lithuania,Lithuania,LTU,-,Yes,1,0,0,1,1,matched,export_table.csv
+LUX,Luxembourg,Luxembourg,LUX,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+LVA,Latvia,,,,,0,0,0,0,0,manual_review_needed,
+MAR,Morocco,Morocco,MAR,Reserved seats,No,0,0,1,3,1,matched,export_table.csv
+MDA,Moldova,"Moldova, Republic of",MDA,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+MDG,Madagascar,,,,,0,0,0,0,0,manual_review_needed,
+MDV,Maldives,Maldives,MDV,-,No,0,0,0,0,0,matched,export_table.csv
+MEX,Mexico,Mexico,MEX,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+MKD,North Macedonia,"North Macedonia, Republic of",MKD,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+MLI,Mali,Mali,MLI,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+MLT,Malta,Malta,MLT,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+MMR,Burma/Myanmar,,,,,0,0,0,0,0,manual_review_needed,
+MNE,Montenegro,Montenegro,MNE,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+MNG,Mongolia,Mongolia,MNG,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+MOZ,Mozambique,Mozambique,MOZ,-,Yes,1,0,0,1,1,matched,export_table.csv
+MRT,Mauritania,Mauritania,MRT,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+MUS,Mauritius,Mauritius,MUS,-,Yes,1,0,0,1,1,matched,export_table.csv
+MWI,Malawi,Malawi,MWI,-,Yes,1,0,0,1,1,matched,export_table.csv
+MYS,Malaysia,Malaysia,MYS,-,Yes,1,0,0,1,1,matched,export_table.csv
+NAM,Namibia,Namibia,NAM,-,Yes,1,0,0,1,1,matched,export_table.csv
+NER,Niger,Niger,NER,Reserved seats,No,0,0,1,3,1,matched,export_table.csv
+NGA,Nigeria,,,,,0,0,0,0,0,manual_review_needed,
+NIC,Nicaragua,Nicaragua,NIC,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+NLD,Netherlands,Netherlands,NLD,-,Yes,1,0,0,1,1,matched,export_table.csv
+NOR,Norway,Norway,NOR,-,Yes,1,0,0,1,1,matched,export_table.csv
+NPL,Nepal,Nepal,NPL,Reserved seats,No,0,0,1,3,1,matched,export_table.csv
+NZL,New Zealand,New Zealand,NZL,-,Yes,1,0,0,1,1,matched,export_table.csv
+OMN,Oman,,,,,0,0,0,0,0,manual_review_needed,
+PAK,Pakistan,Pakistan,PAK,Reserved seats,No,0,0,1,3,1,matched,export_table.csv
+PAN,Panama,Panama,PAN,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+PER,Peru,Peru,PER,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+PHL,Philippines,Philippines,PHL,No legislated,Yes,1,0,0,1,1,matched,export_table.csv
+PNG,Papua New Guinea,Papua New Guinea,PNG,Reserved seats,-,0,0,1,3,1,matched,export_table.csv
+POL,Poland,Poland,POL,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+PRK,North Korea,,,,,0,0,0,0,0,manual_review_needed,
+PRT,Portugal,Portugal,PRT,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+PRY,Paraguay,Paraguay,PRY,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+PSE,Palestine/West Bank,State of Palestine,PSE,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+PSG,Palestine/Gaza,,,,,0,0,0,0,0,manual_review_needed,
+QAT,Qatar,,,,,0,0,0,0,0,manual_review_needed,
+ROU,Romania,Romania,ROU,-,Yes,1,0,0,1,1,matched,export_table.csv
+RUS,Russia,,,,,0,0,0,0,0,manual_review_needed,
+RWA,Rwanda,Rwanda,RWA,Reserved seats,No,0,0,1,3,1,matched,export_table.csv
+SAU,Saudi Arabia,,,,,0,0,0,0,0,manual_review_needed,
+SDN,Sudan,,,,,0,0,0,0,0,manual_review_needed,
+SEN,Senegal,Senegal,SEN,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+SGP,Singapore,,,,,0,0,0,0,0,manual_review_needed,
+SLB,Solomon Islands,,,,,0,0,0,0,0,manual_review_needed,
+SLE,Sierra Leone,Sierra Leone,SLE,Reserved seats,No,0,0,1,3,1,matched,export_table.csv
+SLV,El Salvador,El Salvador,SLV,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+SML,Somaliland,,,,,0,0,0,0,0,manual_review_needed,
+SOM,Somalia,Somalia,SOM,Reserved seats,Yes,1,0,1,3,1,matched,export_table.csv
+SRB,Serbia,Serbia,SRB,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+SSD,South Sudan,South Sudan,SSD,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+STP,Sao Tome and Principe,,,,,0,0,0,0,0,manual_review_needed,
+SUR,Suriname,,,,,0,0,0,0,0,manual_review_needed,
+SVK,Slovakia,Slovakia,SVK,-,Yes,1,0,0,1,1,matched,export_table.csv
+SVN,Slovenia,Slovenia,SVN,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+SWE,Sweden,Sweden,SWE,-,Yes,1,0,0,1,1,matched,export_table.csv
+SWZ,Eswatini,,,,,0,0,0,0,0,manual_review_needed,
+SYC,Seychelles,,,,,0,0,0,0,0,manual_review_needed,
+SYR,Syria,,,,,0,0,0,0,0,manual_review_needed,
+TCD,Chad,Chad,TCD,Legislated Candidate Quotas,-,0,1,0,2,1,matched,export_table.csv
+TGO,Togo,,,,,0,0,0,0,0,manual_review_needed,
+THA,Thailand,Thailand,THA,-,Yes,1,0,0,1,1,matched,export_table.csv
+TJK,Tajikistan,,,,,0,0,0,0,0,manual_review_needed,
+TKM,Turkmenistan,,,,,0,0,0,0,0,manual_review_needed,
+TLS,Timor-Leste,Timor-Leste,TLS,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+TTO,Trinidad and Tobago,,,,,0,0,0,0,0,manual_review_needed,
+TUN,Tunisia,Tunisia,TUN,-,No,0,0,0,0,0,matched,export_table.csv
+TUR,"T""urkiye",Turkey,TUR,-,Yes,1,0,0,1,1,matched,export_table.csv
+TWN,Taiwan,Taiwan,TWN,Reserved seats,No,0,0,1,3,1,matched,export_table.csv
+TZA,Tanzania,"Tanzania, United Republic of",TZA,Reserved seats,Yes,1,0,1,3,1,matched,export_table.csv
+UGA,Uganda,Uganda,UGA,Reserved seats,Yes,1,0,1,3,1,matched,export_table.csv
+UKR,Ukraine,Ukraine,UKR,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+URY,Uruguay,Uruguay,URY,Legislated Candidate Quotas,Yes,1,1,0,2,1,matched,export_table.csv
+USA,United States of America,,,,,0,0,0,0,0,manual_review_needed,
+UZB,Uzbekistan,Uzbekistan,UZB,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+VEN,Venezuela,Venezuela,VEN,Legislated Candidate Quotas,No,0,1,0,2,1,matched,export_table.csv
+VNM,Vietnam,Viet Nam,VNM,Legislated Candidate Quotas,-,0,1,0,2,1,matched,export_table.csv
+VUT,Vanuatu,Vanuatu,VUT,-,-,0,0,0,0,0,matched,export_table.csv
+XKX,Kosovo,Kosovo,,,,0,0,0,0,0,manual_review_needed,
+YEM,Yemen,,,,,0,0,0,0,0,manual_review_needed,
+YMD,South Yemen,,,,,0,0,0,0,0,manual_review_needed,
+ZAF,South Africa,South Africa,ZAF,-,Yes,1,0,0,1,1,matched,export_table.csv
+ZMB,Zambia,,,,,0,0,0,0,0,manual_review_needed,
+ZWE,Zimbabwe,Zimbabwe,ZWE,Reserved seats,Yes,1,0,1,3,1,matched,export_table.csv
+ZZB,Zanzibar,,,,,0,0,0,0,0,manual_review_needed,

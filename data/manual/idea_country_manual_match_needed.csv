@@ -1,0 +1,61 @@
+iso3c,country_name,suggested_idea_country_name,match_method,match_score,notes
+AFG,Afghanistan,,unmatched,0.632,no_reliable_auto_match
+ARE,United Arab Emirates,,unmatched,0.467,no_reliable_auto_match
+AZE,Azerbaijan,,unmatched,0.588,no_reliable_auto_match
+BGR,Bulgaria,,unmatched,0.667,no_reliable_auto_match
+BHR,Bahrain,,unmatched,0.615,no_reliable_auto_match
+BLR,Belarus,,unmatched,0.571,no_reliable_auto_match
+BRB,Barbados,,unmatched,0.556,no_reliable_auto_match
+BTN,Bhutan,,unmatched,0.571,no_reliable_auto_match
+CHN,China,,unmatched,0.667,no_reliable_auto_match
+COD,Democratic Republic of the Congo,,unmatched,0.632,no_reliable_auto_match
+CUB,Cuba,,unmatched,0.545,no_reliable_auto_match
+DDR,German Democratic Republic,,unmatched,0.542,no_reliable_auto_match
+DJI,Djibouti,,unmatched,0.444,no_reliable_auto_match
+DNK,Denmark,,unmatched,0.5,no_reliable_auto_match
+EST,Estonia,,unmatched,0.571,no_reliable_auto_match
+ETH,Ethiopia,,unmatched,0.533,no_reliable_auto_match
+FIN,Finland,,unmatched,0.714,no_reliable_auto_match
+FJI,Fiji,,unmatched,0.444,no_reliable_auto_match
+GEO,Georgia,,unmatched,0.714,no_reliable_auto_match
+GHA,Ghana,,unmatched,0.727,no_reliable_auto_match
+GMB,The Gambia,,unmatched,0.625,no_reliable_auto_match
+GUY,Guyana,,unmatched,0.667,no_reliable_auto_match
+HKG,Hong Kong,,unmatched,0.5,no_reliable_auto_match
+HTI,Haiti,,unmatched,0.571,no_reliable_auto_match
+IRN,Iran,,unmatched,0.75,no_reliable_auto_match
+JAM,Jamaica,,unmatched,0.571,no_reliable_auto_match
+KHM,Cambodia,,unmatched,0.667,no_reliable_auto_match
+KWT,Kuwait,,unmatched,0.462,no_reliable_auto_match
+LAO,Laos,,unmatched,0.5,no_reliable_auto_match
+LBN,Lebanon,,unmatched,0.571,no_reliable_auto_match
+LBY,Libya,,unmatched,0.667,no_reliable_auto_match
+LVA,Latvia,,unmatched,0.615,no_reliable_auto_match
+MDG,Madagascar,,unmatched,0.444,no_reliable_auto_match
+MMR,Burma/Myanmar,,unmatched,0.455,no_reliable_auto_match
+NGA,Nigeria,,unmatched,0.833,no_reliable_auto_match
+OMN,Oman,,unmatched,0.727,no_reliable_auto_match
+PRK,North Korea,,unmatched,0.588,no_reliable_auto_match
+PSG,Palestine/Gaza,,unmatched,0.621,no_reliable_auto_match
+QAT,Qatar,,unmatched,0.6,no_reliable_auto_match
+RUS,Russia,,unmatched,0.615,no_reliable_auto_match
+SAU,Saudi Arabia,,unmatched,0.588,no_reliable_auto_match
+SDN,Sudan,,unmatched,0.667,no_reliable_auto_match
+SGP,Singapore,,unmatched,0.5,no_reliable_auto_match
+SLB,Solomon Islands,,unmatched,0.545,no_reliable_auto_match
+SML,Somaliland,,unmatched,0.824,no_reliable_auto_match
+STP,Sao Tome and Principe,,unmatched,0.421,no_reliable_auto_match
+SUR,Suriname,,unmatched,0.667,no_reliable_auto_match
+SWZ,Eswatini,,unmatched,0.615,no_reliable_auto_match
+SYC,Seychelles,,unmatched,0.533,no_reliable_auto_match
+SYR,Syria,,unmatched,0.727,no_reliable_auto_match
+TGO,Togo,,unmatched,0.5,no_reliable_auto_match
+TJK,Tajikistan,,unmatched,0.778,no_reliable_auto_match
+TKM,Turkmenistan,,unmatched,0.636,no_reliable_auto_match
+TTO,Trinidad and Tobago,,unmatched,0.435,no_reliable_auto_match
+USA,United States of America,,unmatched,0.541,no_reliable_auto_match
+XKX,Kosovo,Kosovo,name_fuzzy_high,1.0,fuzzy_match_needs_manual_confirmation
+YEM,Yemen,,unmatched,0.545,no_reliable_auto_match
+YMD,South Yemen,,unmatched,0.6,no_reliable_auto_match
+ZMB,Zambia,,unmatched,0.769,no_reliable_auto_match
+ZZB,Zanzibar,,unmatched,0.533,no_reliable_auto_match
